@@ -1,7 +1,9 @@
 # README.md
 
 
-This is a mold made to cast the hand of a humanoid robot. The mold will be 3D printed, so it is segmented to three parts to avoid errors in printing. 
+This is a mold made to cast the hand of a humanoid robot. The mold will be 3D printed, so it is segmented to three parts to avoid errors in printing, also for easy removal of the cast.
+
+
 These parts have irregular shapes to help in mold assembly, and also have keys to align parts perfectly.
 The casting material is silicone rubber, so, thermal analysis of the casting process is disregarded, as silicone is casted at room temperature.
 
